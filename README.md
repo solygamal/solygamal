@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sally Gamal and I'm a Software Engineer and FullStack Developer, from Cairo</h2>
+<h2 align="left">Hi 👋! My name is Sally Gamal and I'm a Software Engineer and FullStack Developer</h2>
 
 
 
@@ -83,4 +83,3 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-###
